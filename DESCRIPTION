@@ -1,0 +1,9 @@
+Package: tweetNetwork
+Type: Package
+Title: Tweet Network
+Version: 0.1.0
+Author: Edmund Hart
+Maintainer: Edmund Hart  <edmund.m.hart@gmail.com>
+Description: Creates twitter networks
+License: MIT
+LazyData: TRUE
